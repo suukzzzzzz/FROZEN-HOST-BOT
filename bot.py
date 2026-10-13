@@ -45,7 +45,7 @@ logging.basicConfig(
 log = logging.getLogger(__name__)
 
 # ── CONFIG ────────────────────────────────────────────────────
-BOT_TOKEN       = os.environ.get("BOT_TOKEN",       "8950258373:AAFzC9dBiZlrIcwYQ1jZCUBF_s6BFtwjNHo")
+BOT_TOKEN       = os.environ.get("BOT_TOKEN",       "8950258373:AAEGzHx7X06lTFST6jKRGV7Ku0-bIufmDy4")
 ADMIN_ID        = int(os.environ.get("ADMIN_ID",    "7597712290"))
 SECRET_PASSWORD = os.environ.get("SECRET_PASSWORD", "primelazzy888")
 
